@@ -2,17 +2,19 @@
 
 Data Cleaning Project using MySQL  
 
-Project Parts 
-1. Data cleaning queries  
-      Standardize data formats 
-      Update table using correct date format
-      Populate Warehouse Address data using Store_TAN_Number
-      Breaking out Address into Individual Columns (Address, City) 
-      Change Y and N to Yes and No in "Sold as Vacant" field
-      Create Temporary Table to delete Rows
-      Remove Duplicates Rows
-      Drop Unwanted Column
+Project Parts - 
 
- 
-      
-      Data used: Warehouse_Details Data
+Data Cleaning Queries 
+
+1. Standardize data formats 
+3. Update table using correct date format
+4.  Populate Warehouse Address data using Store_TAN_Number
+5.  Breaking out Address into Individual Columns (Address, City) 
+6.  Change Y and N to Yes and No in "Sold as Vacant" field
+7.  Create Temporary Table to delete Rows
+8.  Remove Duplicates Rows
+9.  Drop Unwanted Column
+
+Data used  
+
+Warehouse_Details Data
